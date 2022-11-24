@@ -1,4 +1,4 @@
-package Oops;
+package Day4_Oops;
 
 import java.util.Scanner;
 // driver class

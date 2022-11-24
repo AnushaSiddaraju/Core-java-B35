@@ -1,4 +1,4 @@
-package Oops;
+package Day4_Oops;
 
 
 // Singletone class
