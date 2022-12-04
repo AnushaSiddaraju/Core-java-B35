@@ -8,9 +8,14 @@ package FinalKeywordVariableDemo;
 	protected String name="Jenny";
 }*/
 
-public  class FinalParentClass {
+public class  FinalParentClass {
 	
 	protected String name="Jenny";
+
+	public  void print() {
+		// TODO Auto-generated method stub
+		
+	}
 
 		
 	}

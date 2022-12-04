@@ -3,7 +3,7 @@ package FinalKeywordVariableDemo;
 public class FinalCLassExcecutor {
 
 	public static void main(String[] args) {
-		FinalChildtClass f=new FinaChildClass();
+		FinalParentClass f=new FinalParentClass();
 		f.print();
 
 	}
