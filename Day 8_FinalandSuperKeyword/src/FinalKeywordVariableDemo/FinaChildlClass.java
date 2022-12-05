@@ -3,8 +3,7 @@ package FinalKeywordVariableDemo;
 public class FinaChildlClass extends FinalParentClass{
 	
 	//method
-	public  void print() {
-	}
+	public void print()
 	{
 		System.out.println(name);
 	}
